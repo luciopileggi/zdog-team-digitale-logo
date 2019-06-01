@@ -35,7 +35,7 @@ new Zdog.Shape({
   addTo: illo,
   // no path set, default to single point
 path:[
- {x: -50, y: 0}],
+ {x: -50, y: -20}],
   stroke: 20,
   color: '#fff',
 });
