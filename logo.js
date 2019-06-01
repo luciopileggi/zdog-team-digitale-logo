@@ -50,7 +50,7 @@ var cycleCount = 240;
 
 
 function animate() {
-illo.rotate.y += isSpinning ? 0.02 : 10 ;
+// illo.rotate.y += isSpinning ? 0.02 : 10 ;
  illo.updateRenderGraph();
  requestAnimationFrame( animate );
 }
